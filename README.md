@@ -13,7 +13,7 @@ c) Easy to deploy(no skill required) within 5 minutes using push-fitting with ve
 
 d) Rigourous 1 month testing on single bus followed by deployment to whole bus fleet of delhi transit buses.
 
-![alt text](https://raw.githubusercontent.com/deepanshu520911/CIGAR-COIL-PROTECTION-BRACKET/main/CIGAR%20COIL%20PROTECTION%20BRACKET%20ONLY%20VIEWS.png)
+![alt text](https://github.com/deepanshu520911/CIGAR-COIL-PROTECTION-BRACKET/blob/main/CIGAR%20COIL%20PROTECTION%20BRACKET%20ONLY%20VIEWS.png?raw=true)
 
 ## IMPACT
 1,740 CIGAR COIL PROTECTION BRACKETS were deployed in staggered manner to fleet of 310 delhi transit buses. Daily breakdown of buses due to above mentioned issues were reduced from 25-30 to 1-2 issues per month only. Resuability of existing cigar coil has been drastically improved and monthly new inventory requirement has been reduced from 40-50 qty to 15-20 per month.
